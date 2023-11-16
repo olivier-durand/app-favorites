@@ -1,0 +1,89 @@
+.nav1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+    text-align: center;
+    font-size: 20px;
+    padding: 0%;
+    padding-bottom: 3%;
+    margin: 0;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-family: 'Agbalumo', sans-serif;
+    font-size: 20px;
+}
+h1 {
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Edu TAS Beginner', medium;
+}
+.vitrine{
+    background-color: red;
+    border: white;
+    border-radius: 5px;
+    color:white
+    font-family: 'Agbalumo', sans-serif;
+    font-size: 20px;   
+}
+h2 {
+    color: red;
+    text-decoration: none;
+    text-align: left;
+    margin-right: 75px;
+    padding-top: 1%;
+    font-family: 'Edu TAS Beginner', medium;
+}
+
+h3 {
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    margin-right: 75px;
+    font-family: 'Edu TAS Beginner', medium;
+}
+.slid{
+    width: 50%;
+    height: auto;
+    display: flex;
+    align-content: center;
+}
+.couv{
+    width: 80%;
+    height: 50%;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
+main {
+    width: 80%;
+    height: 50%;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+}
+p{
+    color: black;
+    text-decoration: none;
+    font-family: 'Edu TAS Beginner', medium;
+    font-size: 18px;
+    text-align: center;
+    align-self: center;
+    margin-top: 10px;    
+     margin-bottom: 10px;
+    margin-left: 20px;  
+    margin-right: 20px; 
+}
+.bouton{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    background-color: rgb(255, 0, 0);
+    border-color: rgb(255, 255, 255);
+    font-size: 25px;
+    color:beige  
+}
